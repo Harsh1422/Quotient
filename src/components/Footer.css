@@ -1,0 +1,73 @@
+.mainFooter
+{
+    align-items: center;
+    display: flex;
+    flex: none;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    gap: 120px;
+    height: min-content;
+    justify-content: flex-start;
+    max-width: 1200px;
+    overflow: visible;
+    padding: 0;
+    position: relative;
+    width: 90%;
+    margin: 0 auto;
+}
+.Footer1
+{
+    align-content: flex-start;
+    align-items: flex-start;
+    display: flex;
+    flex: none;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height: min-content;
+    justify-content: space-between;
+    max-width: 1200px;
+    overflow: visible;
+    padding: 0;
+    position: relative;
+    width: 100%;
+    margin-top: 30px;
+}
+.Footlinks
+{
+    align-items: flex-start;
+    display: flex;
+    flex: none;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    gap: 10px;
+    height: min-content;
+    justify-content: flex-start;
+    overflow: visible;
+    padding: 0;
+    position: relative;
+    width: min-content;
+}
+.Footlinks a
+{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+}
+.Footer2 h5
+{
+    text-decoration: none;
+    color: black;
+    font-size: 40px;
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+}
+.Footer1 h4
+{
+    text-decoration: none;
+    color: black;
+    font-size: 40px;
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+}
